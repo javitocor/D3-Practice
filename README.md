@@ -1,5 +1,5 @@
-## LIBRARY WITH FIREBASE
-The previous project Library from The Odin Project updated to use Firebase cloud database and Firebase Hosting.
+# D3-Practice
+Project to practice with D3 library. Built with JS.
 
 ![screenshot](./screenshot.png)
 ## Built With
@@ -7,14 +7,14 @@ The previous project Library from The Odin Project updated to use Firebase cloud
 - HTML 
 - CSS
 - JAVASCRIPT
-- FIREBASE
+- D3
 
 ## Live Demo
 
-[Live Demo Link](https://library-dc5ff.web.app/) :point_left:
+[Live Demo Link](https://javitocor.github.io/D3-Practice/) :point_left:
 
 ## Getting Started
-- Follow the live demo link and enjoy the site adding books to it.
+- Follow the live demo link and enjoy the site.
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
@@ -37,7 +37,7 @@ Clone the repository unto your local machine cd to the folder.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Library-JS-FIREBASE/issues).
+Feel free to check the [issues page](https://github.com/javitocor/D3-Practice/issues).
 
 ## Show your support
 
@@ -45,10 +45,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments 🚀
 
-- Firebase
-- The Odin Project
-- Google
-- Codelabs
+- D3 docs
+- Codeacademy
 
 ## License
 MIT LICENSE
